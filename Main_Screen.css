@@ -1,0 +1,57 @@
+h1{
+  text-align: center;
+  font-family:verdana;
+  color : black
+}
+
+body{
+  background-image: linear-gradient(to right, blue, #99ccff);
+}
+
+.image-square {
+  background-color:grey;
+  border-radius: 20px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 10px 10px 8px black;
+  text-align: center;
+}
+
+#button1{
+    width: 160px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: ivory;
+    font-family:verdana;
+    font-size : 15px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+#button2{
+    width: 160px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: ivory;
+    font-family:verdana;
+    font-size : 15px;
+    font-weight: bold;
+    margin: 10px;
+}
+#container{
+    text-align: center;
+    position: relative;
+    margin-top: 500px;    
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain
+}
