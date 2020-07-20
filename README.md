@@ -6,7 +6,7 @@ After some research on image classification vs image segmentation. I decided to 
 
 ## Requirements :
 
-1.(Will add a requirements.txt file soon)  
+1.(Will add a requirements.txt file soon).  
 2. Yolov3 framework git clone.  
 3. Visual Studio C++ 2019.  
 4. Python3.  
