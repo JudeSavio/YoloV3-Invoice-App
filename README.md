@@ -13,7 +13,10 @@ After some research on image classification vs image segmentation. I decided to 
 5. Python3 packages : OpenCV & Pandas   
 6. Suitable training templates and testing templates of Invoices.  
 
+## Demo Video :
+Please go through the demo video for a fair idea of how of the entirity comes together.
+
 ## Further Ideas for Improvement:
 
 1. More Training examples for the same class to improve accuracy.
-2. Need to experiment on Image segmentation techniques on same sample templates as well
+2. Need to experiment on Image segmentation techniques on same sample templates as well.
